@@ -14,18 +14,18 @@
 
 ****
 
-## 下载：`git clone https://github.com/ymoan/normal-character.git`
+## 下载：`git clone https://github.com/Muoan/normal-character.git`
 
 ****
 ## 公共API：
-**PS：免费API不保证稳定性且可能随时更换API地址，建议[自行搭建API](https://github.com/ymoan/resource/blob/main/index.php)  【NG/PHP搭建的API】**
+**PS：免费API不保证稳定性且可能随时更换API地址，建议[自行搭建API](https://github.com/Muoan/resource/blob/main/index.php)  【NG/PHP搭建的API】**
 
 ## 地址：
-**随机加载：`http://120.48.136.201:520/`**
+**随机加载：`http://X/`**
 
-**指定加载：`http://120.48.136.201:520/?ver=角色名`**
+**指定加载：`http://X/?ver=角色名`**
 
-**图片统计：`http://120.48.136.201:520/stats.php`**
+**图片统计：`http://X/stats.php`**
 
 **请勿恶意传播/攻击，这会导致API服务器宽带占满或被攻击，如使用在插件中请留名API作者**
 
